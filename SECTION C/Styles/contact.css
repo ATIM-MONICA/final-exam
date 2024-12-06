@@ -1,0 +1,42 @@
+*{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: #ff7200;
+    letter-spacing: 10px;
+    line-height: 70px;
+    margin-top: 70px;
+    font-size: 50px;
+    
+ /* }
+.con1{
+    display: flexbox;
+}
+.con2{
+    display: flexbox;
+    direction: center;
+}
+.con3{
+    display: flex; */
+}
+.par1{
+    text-align: center;
+    color: hsl(23, 78%, 57%);
+    font-size: 35px;
+    font-style: italic;
+    
+
+}
+.par2{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.material-icons{
+    color: hsl(23, 78%, 57%);
+    margin-left: 600px;
+}
+.con{
+}

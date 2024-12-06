@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}
+h2{
+    color: #ff7200;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.4s ease-in-out;
+    font-size: 50px;
+    margin-left: 50px;
+    word-spacing: 50px;
+}
+h2:hover{
+    color: aliceblue;
+}
+.pic{
+    width: 400px;
+    height: 500px;
+    float: right;
+}
+.obj{
+    color: white;
+    text-align: left;
+}
+.obj h3{
+    color: #ff7200;
+    font-size: 35px;
+    margin-left: 50px;
+}
+.obj p{
+    margin-left: 10px;
+    line-height: 10px;
+    text-align: left
+}
+h4{
+    color: #ff7200;
+    font-size: 25px;
+    margin-left: 50px;
+}
+.list{
+    margin-left: 10px;
+    line-height: 10px;
+    color: white;
+}
+.list li{
+    line-height: 10px;
+    list-style: square;
+    padding: 5px;
+}
+h5{
+    color: #ff7200;
+    font-size: 25px;
+    margin-left: 50px;
+}
